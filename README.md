@@ -8,6 +8,6 @@ Please type below command...
 
 Then, you should do upload Apache combined log for ./log .
 
-# see read log
-Please access to http://<your docker Host>:5601 .
+## see read log
+ Please access to http://[your docker Host]:5601 .
 
