@@ -1,6 +1,6 @@
 # elk_cont
 
-## Install for Docker
+## Build ELK container using Docker
 This is elk containers for docker(docker-compose).
 Please type below command...
 
@@ -11,5 +11,4 @@ Please type below command...
 Then, you should do upload Apache combined log for ./log .
 
 ## see read log
- Please access to http://[your docker Host]:5601 .
-
+ Please access to `http://[your docker Host]:5601` .
