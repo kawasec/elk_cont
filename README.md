@@ -8,7 +8,7 @@ Please type below command...
 `$ cd elk_cont`  
 `$ docker-compose up -d`
 
-Then, you should do upload Apache combined log for ./log .
+Then, you should upload Apache combined access log for ./log .
 
-## see read log
+## see Apache access log
  Please access to `http://[your docker Host]:5601` .
