@@ -8,3 +8,4 @@ discovery.zen.minimum_master_nodes: 1
 
 #push config below
 discovery.type: single-node
+xpack.security.enabled: false
